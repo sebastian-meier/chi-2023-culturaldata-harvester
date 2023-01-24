@@ -1,0 +1,14 @@
+humanities,215863
+book,156609
+official,117159
+art,47277
+science,46237
+cultural,30450
+pfart,6469
+regional,4343
+dataset,1315
+map,520
+media,513
+broadcast,420
+movie,25
+anime,13

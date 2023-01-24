@@ -1,0 +1,311 @@
+paper,31111
+ink,17616
+wood,10706
+metal - non specific,10543
+photographic emulsion,6311
+mineral - non specific,6153
+paint - non specific,5048
+textile - non specific,4366
+plastic - non specific,4209
+glass,3944
+pigment,3906
+stone - non specific,3431
+cardboard,3006
+plant fibre,2394
+bark,2196
+card,2185
+animal material - non specific,1358
+leather,1338
+adhesive - non specific,1303
+graphite,1232
+crayon,952
+shell,943
+cotton cloth,829
+ceramic,811
+plant material - non specific,627
+brass,618
+canvas,617
+ochre,532
+cotton thread,441
+seed,434
+plastic,430
+gouache,427
+rubber,422
+coloured pencil,418
+string,400
+linen,368
+resin - non specific,366
+feather,341
+silk cloth,333
+acrylic paint,330
+watercolour,284
+steel,260
+glue,257
+felted cloth - non specific,252
+hair - non specific,239
+cellulose acetate,219
+bamboo,214
+pastel,212
+bone,206
+lace,206
+sinew,202
+adhesive tape,199
+cotton - non specific,192
+wool - non specific,189
+velvet,176
+woollen cloth,170
+clay,165
+wire - non specific,155
+satin,154
+silver,152
+varnish,151
+bone china,147
+dye,144
+vinyl,142
+cane,136
+cork,130
+elastic,128
+wax - non specific,128
+stainless steel,127
+plaster,125
+enamel,124
+binder,123
+lime,119
+grass,119
+enamelled metal,114
+aluminium,109
+stone,108
+nylon,107
+charcoal,106
+formalin solution,100
+twine,93
+wool thread,89
+perspex,84
+fur,77
+gold,73
+unidentified material,71
+leatherette,70
+plywood,69
+porcelain,69
+rope,66
+silk,66
+synthetic cloth,65
+iron,63
+oil paint,62
+china,61
+wool,60
+beads,58
+plant leaves,58
+plant nut,57
+foamcore board,57
+masonite,57
+polystyrene,56
+copper,56
+mdf - medium density fibreboard,56
+bakelite,56
+waxed paper,55
+artists board,50
+foam rubber,50
+boab nut,50
+eggshell,49
+synthetic fibre,48
+lacquer,48
+calico,46
+sand,46
+cast iron,44
+animal hide,43
+fibreglass,42
+silver-plated metal - non specific,41
+epns - electo plated nickel silver,41
+quartz,41
+tooth,41
+poisonous material - non specific,41
+glazed ceramic,40
+bronze,40
+lead paint,39
+mother-of-pearl shell,38
+raffia,37
+lead,36
+shellac,36
+ivory,35
+polyester cloth,35
+celluloid,34
+straw,33
+concrete,33
+cotton wool,32
+plied cord,31
+ferrous metal - non specific,29
+velcro,29
+cuprous metal - non specific,29
+metal,28
+suede,27
+bark cloth,26
+kelp,26
+tin,25
+seed pod,25
+acrylic,25
+polyester cotton cloth,23
+synthetic thread,22
+human hair,22
+sterling silver,21
+,21
+die-cast metal,20
+beeswax,19
+soil,19
+marble,19
+abrasive - non specific,19
+chemicals - non specific,19
+mineral oil,18
+flint,18
+textile,18
+modelling compound,17
+anodised aluminium,17
+horse hair,16
+polyester - non specific,16
+tulle,16
+gemstone - non specific,16
+hessian,16
+wool fleece,16
+pearl,16
+gold-plated metal,16
+turtle-shell,15
+synthetic polymer paint,15
+wool felt,15
+slate,14
+paint,14
+plant resin,14
+foodstuffs,14
+chipboard,14
+tusk,14
+tortoiseshell,14
+horn,14
+fibreboard,14
+rattan,13
+enamel paint,13
+chrome-plated metal - non specific,13
+petrol,13
+vellum,13
+sandstone,13
+cellophane,12
+organic material - non specific,12
+animal bristle,12
+silk thread,12
+papier-mache,11
+parchment,11
+linoleum,11
+silver-plated brass,11
+lycra,10
+chalk,10
+cotton polyester cloth,10
+rayon,10
+fur felt,9
+nickel,9
+pewter,9
+fibre,9
+liquid - non specific,9
+pvc - polyvinyl chloride,8
+wicker,8
+oil skin cloth,8
+water,8
+tin-plated metal,8
+synthetic bristle,8
+velveteen,7
+sheepskin,7
+acetate,7
+incendiary material,7
+mercury,7
+asbestos,7
+velour,7
+kapok,7
+gold bullion braid,6
+flannel,6
+zinc,6
+limestone,6
+flax,6
+glass enamel,6
+silver bullion wire,5
+nickel-plated steel,5
+wire netting,5
+gold bullion wire,5
+mohair,5
+neoprene,5
+tobacco,5
+soap,5
+painted,5
+wrought iron,5
+spandex,5
+insect material - non specific,5
+glazed porcelain,5
+alloy - non specific,5
+galvanised steel,5
+silicone,4
+gold leaf,4
+waxed cardboard,4
+gilded brass,4
+coral,4
+blu-tack,4
+opal,4
+gypsum,4
+carbon fibre,4
+granite,4
+galvanised iron,3
+quartzite,3
+oil - non specific,3
+rubberised cloth,3
+tar,3
+impasto gel,3
+acid,3
+carborundum,3
+paraffin wax,3
+chamois,2
+plasticine,2
+patent leather,2
+flock,2
+hemp,2
+skin,2
+medicinal tablets,2
+chrome-plated steel,2
+chrome-plated brass,2
+gilded metal - non specific,2
+lacquered wood,2
+powder - non specific,2
+garnet,2
+mica,2
+plastic enamel,2
+gunpowder,2
+animal gut,2
+gum,2
+polyethylene,2
+synthetic fibres,2
+polypropylene,2
+snakeskin,1
+basalt,1
+imitation leather,1
+glazed stoneware,1
+pandanus fibre,1
+salt,1
+alcohol,1
+mortar,1
+barbed wire,1
+formica-like material,1
+medicine - non specific,1
+synthetic resin,1
+bitumen,1
+waxed string,1
+geological material - non specific,1
+laquer,1
+ruby,1
+arsenic,1
+insecticide,1
+animal fat,1
+duperite,1
+polyurethane,1
+chert,1
+medicinal cream,1
+amber,1
+gore-tex,1
+silver bullion braid,1
+jute,1
+terracotta,1
+conte,1
+silicon carbide,1

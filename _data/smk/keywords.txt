@@ -1,0 +1,132 @@
+drawing,73390
+print,50361
+etching,17017
+copper engraving,9223
+engraving,7342
+painting,7217
+woodcut,5431
+lithograph,3598
+watercolour,2083
+collage,1980
+relief,1435
+photograph,1277
+xylograph,1101
+gouache,1029
+aquatint,975
+intaglio print,948
+photocopy,922
+statue,737
+offset lithography,686
+bust,659
+sculpture,654
+linocut,620
+head,525
+installation,521
+statuette,491
+miniature,434
+medal,430
+serigraph,339
+sculpture in the round,257
+mezzotint,177
+relief print,171
+pastel,158
+group of statuettes,147
+chiaroscuro woodcut,144
+crayon engraving,142
+column,134
+object,117
+autography,104
+group of statues,103
+plain print,103
+herma,96
+wall piece,89
+monotype,85
+relief etching,85
+computer print,78
+collage painting,65
+video,62
+torso,48
+frieze,44
+stencil print,40
+line block,39
+zincograph,37
+sculpture related to architecture,35
+assemblage,33
+mixed media,32
+mirror case,29
+medallion,26
+seal,24
+ceramics,19
+book-craft,18
+diptych,18
+audio-visuel,17
+picture tapestry,16
+mask,15
+film/video/sound/computer,14
+half-length figure,13
+kore,13
+mural painting,12
+vase,12
+table,12
+alterpiece,11
+scupper,11
+other classification,11
+presswork,10
+canopy,10
+pedestal,9
+decorative arts,9
+predella,8
+overdoor,8
+capital,8
+cover,8
+tympanum,8
+stele,8
+plaquette,7
+maleri,7
+collotype,6
+baptismal font,6
+platform,6
+helio and photogravure,6
+digital print,6
+icon,5
+console,5
+kouros,5
+pencil,5
+crucifix,5
+base of a column,4
+steel engraving,4
+equestrian statuette,4
+décollage,4
+cameo,4
+monument,4
+performance,4
+mobile,3
+ciborium,3
+sphinx,3
+discus,3
+cinerary chest,3
+poster,3
+textile,3
+cassone,2
+altar,2
+pastel crayon,2
+pen,2
+equestrian statue,2
+works on paper,2
+pigment print,2
+digital art,2
+multiple,1
+metalcut,1
+photo serigraphy,1
+chalk,1
+holy-water font,1
+sepulchral monument,1
+film,1
+ready-made,1
+paper collage,1
+sound installation,1
+multiple print types,1
+video installation,1
+happening,1
+sound art,1
+artist book,1

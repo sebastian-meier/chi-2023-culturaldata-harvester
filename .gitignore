@@ -6,8 +6,18 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-_data
+_data/*/*
 .env
+!_data/*/types.txt
+!_data/*/mediums.txt
+!_data/*/classes.txt
+!_data/*/types_en.txt
+!_data/*/classes_en.txt
+!_data/*/keywords.txt
+!_data/*/categories.txt
+!_data/*/contentTypes.txt
+!_data/*/materials.txt
+!_data/*/techniques.txt
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json

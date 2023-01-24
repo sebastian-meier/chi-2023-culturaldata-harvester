@@ -1,0 +1,69 @@
+print,19810
+photograph,6931
+bound volume,4738
+painting,4127
+drawing,4013
+ceramic,3308
+textile,2654
+sculpture,2588
+metalwork,2075
+portfolio,1947
+manuscript,1365
+arms and armor,1300
+lace,1208
+jewelry,1090
+glass,611
+embroidery,611
+coins,574
+miscellaneous,546
+furniture and woodwork,539
+silver,495
+enamel,367
+funerary equipment,279
+velvet,262
+garment,260
+jade,257
+mixed media,244
+lacquer,198
+implements,171
+ivory,164
+portrait miniature,164
+spindle whorl,135
+woodblock,133
+basketry,129
+wood,125
+vessels,122
+time-based media,109
+amulets,100
+sampler,86
+musical instrument,85
+stone,72
+plate,71
+tool,70
+mask,66
+calligraphy,52
+tapestry,49
+carpet,40
+scarabs,26
+lamp,21
+cosmetic objects,20
+glyptic,17
+leather,15
+netsuke,13
+apparatus,12
+knitting,12
+rock crystal,7
+forgery,7
+mosaic,6
+miniature,6
+plaque,6
+linoleum block,6
+seals,5
+timepiece,3
+monotype,3
+book binding,3
+inlays,2
+lithographic stone,2
+illumination,1
+frame,1
+relief,1
